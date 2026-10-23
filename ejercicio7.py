@@ -1,0 +1,10 @@
+#programa que calcule dos operandos con los 7 operadores vistos en clase. ¿Cómo puedes forzar que el resultado de la división tenga 2 decimales?  
+operando1 = float(input("Ingrese el primer operando: "))
+operando2 = float(input("Ingrese el segundo operando: "))
+print("Suma:", operando1 + operando2)
+print("Resta:", operando1 - operando2)
+print("Multiplicación:", operando1 * operando2)
+print("División:", round(operando1 / operando2, 2))
+print("Módulo:", operando1 % operando2)
+print("Potencia:", operando1 ** operando2)
+print("División entera:", operando1 // operando2)

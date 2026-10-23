@@ -1,0 +1,6 @@
+palabra1 = input("Ingrese la primera palabra: ")
+palabra2 = input("Ingrese la segunda palabra: ")
+palabra3 = input("Ingrese la tercera palabra: ")
+palabra4 = input("Ingrese la cuarta palabra: ")
+palabra5 = input("Ingrese la quinta palabra: ")
+print("palabra1:", palabra1 + ", palabra2:", palabra2 + ", palabra3:", palabra3 + ", palabra4:", palabra4 + ", palabra5:", palabra5)
