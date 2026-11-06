@@ -14,3 +14,6 @@ raiz=sqrt(discriminante)
 x_1 = (-b + raiz) / (2 * a)     # calculamos una primera solución
 if discriminante != 0:          # comprobamos si hay otra solución
     x_2 = (-b - raiz) / (2 * a) # calculamos la segunda solución
+print('La primera solución es: ', x_1)
+if discriminante != 0:
+    print('La segunda solución es: ', x_2)
