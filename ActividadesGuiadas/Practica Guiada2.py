@@ -15,7 +15,7 @@ else:
     contiene="NO"
 if codigo[-2:]=="25":
     coleccion="SI"
-else
+else:
     coleccion="No"
 
-print("Mayusculas:",mayusculas, "/Minúsculas:",minusculas, "/Caracteres:",longitud, "/Guiones:",guion, "/Contiene TEC:",contiene, "/Colección 25:",coleccion)
+print("Mayusculas:",mayusculas, "/Minúsculas:",minusculas, "/Caracteres:",longitud, "/Guiones:",guion,)
